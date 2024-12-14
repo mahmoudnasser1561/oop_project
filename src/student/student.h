@@ -5,7 +5,7 @@ class Student {
 public:
   Student() {}
   int getID() {}
-  void setID(int id) {}
+  void setID(int id) {} //change data type from double to int 
   double getGPA() {}
   void setAge(int age) {}
 private:
